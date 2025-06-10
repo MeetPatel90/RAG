@@ -4,3 +4,4 @@ groq
 PyMuPDF
 numpy
 scikit-learn
+faiss-cpu
